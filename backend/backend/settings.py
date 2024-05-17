@@ -12,7 +12,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['bpaverin.zapto.org']
 
-
 # Application definition
 
 INSTALLED_APPS = [
